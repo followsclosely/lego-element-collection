@@ -30,7 +30,7 @@ export class CollectionService {
 
   getElementsByYear(collectionId : string | null) : Observable<LegoBucket[]> {
     console.log('getElements');
-    return this.http.get<LegoElement[]>("/rest/shields.json").pipe(
+    return this.http.get<LegoElement[]>("/rest/"+collectionId+".json").pipe(
       map( (elements) => {
         var buckets : LegoBucket[] = [];
         var legoBucket : LegoBucket = new LegoBucket(-1, []);
