@@ -1,0 +1,25 @@
+<mat-slide-toggle [(ngModel)]="hideMissing">hide missing</mat-slide-toggle>
+&nbsp;&nbsp;
+<mat-slide-toggle [(ngModel)]="hideOwned">hide owned</mat-slide-toggle>
+&nbsp;&nbsp;
+<mat-slide-toggle [(ngModel)]="showId">show id</mat-slide-toggle>
+<br/>
+<br/>
+
+<table>
+  <tr *ngFor="let row of grid">
+    <td *ngFor="let bucket of row;"> 
+      <div *ngIf="!bucket.element">
+        <b>{{bucket.year}}</b>
+      </div>
+      <div *ngIf="bucket.element" [ngClass]="(hideMissing && !bucket.element.owned) || (hideOwned && bucket.element.owned) ? 'hide' : 'na'">
+        <img src="{{bucket.element.imageUrl}}" />
+        <div *ngIf="showId">
+          <a href="https://www.bricklink.com/v2/catalog/catalogitem.page?P={{bucket.element.id}}#T=S&C={{bucket.element.color}}">
+            {{bucket.element.id}}/{{bucket.element.color}}
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>

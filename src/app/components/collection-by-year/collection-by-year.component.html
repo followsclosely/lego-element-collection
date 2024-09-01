@@ -1,0 +1,8 @@
+<table>
+  <tr *ngFor="let bucket of buckets">
+    <th>{{bucket.year}}</th>
+    <td *ngFor="let shield of bucket.elements"> 
+      <img src="{{shield.imageUrl}}" />
+    </td>
+  </tr>
+</table>

@@ -1,0 +1,137 @@
+[
+  {"year": 1978,"owned": false,"id": "3847a", "color":   "9", "imageUrl": "https://img.bricklink.com/P/9/3847a.jpg"},
+   
+  {"year": 1984,"owned": false,"id":  "3847", "color":  "10", "imageUrl": "https://img.bricklink.com/P/10/3847.jpg"},
+  {"year": 1984,"owned": false,"id": "3847a", "color":  "10", "imageUrl": "https://img.bricklink.com/P/10/3847a.jpg"},
+ 
+  {"year": 1986,"owned": false,"id": "3847a", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/3847a.jpg"},
+ 
+  {"year": 1989,"owned": false,"id":  "2530", "color":  "10", "imageUrl": "https://img.bricklink.com/P/10/2530.jpg"},
+  {"year": 1989,"owned": false,"id":  "2530", "color":  "85", "imageUrl": "https://img.bricklink.com/P/85/2530.jpg"},
+
+  {"year": 1995,"owned": false,"id":    "59", "color":  "22", "imageUrl": "https://img.bricklink.com/P/22/59.jpg"},
+
+  {"year": 2001,"owned": false,"id":  "3847", "color":   "9", "imageUrl": "https://img.bricklink.com/ItemImage/PT/9/3847.t1.png"},
+
+  {"year": 2003,"owned": false,"id":    "59", "color":  "21", "imageUrl": "https://img.bricklink.com/P/21/59.jpg"},
+  {"year": 2003,"owned": false,"id": "43887", "color":   "9", "imageUrl": "https://img.bricklink.com/P/9/43887.jpg"},
+  {"year": 2003,"owned": false,"id": "43887", "color":  "10", "imageUrl": "https://img.bricklink.com/P/10/43887.jpg"},
+  {"year": 2003,"owned": false,"id": "43887", "color":   "3", "imageUrl": "https://img.bricklink.com/P/3/43887.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color":   "5", "imageUrl": "https://img.bricklink.com/P/5/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color":  "78", "imageUrl": "https://img.bricklink.com/P/78/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color":  "66", "imageUrl": "https://img.bricklink.com/P/66/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color":   "3", "imageUrl": "https://img.bricklink.com/P/3/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color": "235", "imageUrl": "https://img.bricklink.com/P/235/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "48495", "color":  "81", "imageUrl": "https://img.bricklink.com/P/81/48495.jpg"},
+  {"year": 2004,"owned": false,"id": "43887", "color":  "85", "imageUrl": "https://img.bricklink.com/P/85/43887.jpg"},
+  {"year": 2004,"owned": false,"id": "43887", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/43887.jpg"},
+  {"year": 2004,"owned": false,"id": "43887", "color":   "1", "imageUrl": "https://img.bricklink.com/P/1/43887.jpg"},
+  {"year": 2004,"owned": false,"id": "43887", "color":  "86", "imageUrl": "https://img.bricklink.com/P/86/43887.jpg"},
+  {"year": 2004,"owned": false,"id": "43887", "color":  "22", "imageUrl": "https://img.bricklink.com/P/22/43887.jpg"},
+
+  {"year": 2005,"owned": false,"id": "48495", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/48495.jpg"},
+
+  {"year": 2006,"owned": false,"id": "48495", "color":  "59", "imageUrl": "https://img.bricklink.com/P/59/48495.jpg"},
+  {"year": 2006,"owned": false,"id": "48495", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/48495.jpg"},
+  {"year": 2006,"owned": false,"id": "48495", "color":  "65", "imageUrl": "https://static.bricklink.com/clone/img/no_image_err.png"},
+
+  {"year": 2007,"owned": false,"id":  "3847", "color":  "66", "imageUrl": "https://img.bricklink.com/P/66/3847.jpg"},
+  {"year": 2007,"owned": false,"id": "60752", "color":  "84", "imageUrl": "https://img.bricklink.com/P/84/60752.jpg"},
+
+  {"year": 2008,"owned": false,"id": "60752", "color":  "66", "imageUrl": "https://img.bricklink.com/P/66/60752.jpg"},
+
+  {"year": 2010,"owned": false,"id":  "3847", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/3847.jpg"},
+  {"year": 2010,"owned": false,"id":  "3847", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/3847.jpg"},
+
+  {"year": 2011,"owned": false,"id": "93247", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/93247.jpg"},
+  {"year": 2011,"owned": false,"id": "93247", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/93247.jpg"},
+  {"year": 2011,"owned": false,"id": "93550", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/93550.jpg"},
+  {"year": 2011,"owned": false,"id": "60752", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/60752.jpg"},
+  {"year": 2011,"owned": false,"id": "60752", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/60752.jpg"},
+  {"year": 2011,"owned": false,"id": "93055", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/93055.jpg"},
+  {"year": 2011,"owned": false,"id": "94158c", "color": "85", "imageUrl": "https://img.bricklink.com/P/85/94158c.jpg"},
+
+
+  {"year": 2012,"owned": false,"id": "98370", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/98370.jpg"},
+  {"year": 2012,"owned": false,"id": "98370", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/98370.jpg"},
+  {"year": 2012,"owned": false,"id": "10050", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/10050.jpg"},
+  {"year": 2012,"owned": false,"id": "10053", "color":  "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/10053.t1.png"},
+  {"year": 2012,"owned": false,"id":  "2530", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/2530.jpg"},
+
+  {"year": 2013,"owned": false,"id": "76764", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/76764.jpg"},
+  {"year": 2013,"owned": false,"id": "98370", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/98370.jpg"},
+  {"year": 2013,"owned": false,"id": "93550", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/93550.jpg"},
+ 
+  {"year": 2014,"owned": false,"id": "98370", "color":  "85", "imageUrl": "https://img.bricklink.com/P/85/98370.jpg"},
+  {"year": 2014,"owned": false,"id": "93550", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/93550.jpg"},
+  {"year": 2014,"owned": false,"id": "18787", "color":  "88", "imageUrl": "https://img.bricklink.com/P/88/18787.jpg"},
+  {"year": 2014,"owned": false,"id": "18787", "color":  "156", "imageUrl": "https://img.bricklink.com/P/156/18787.jpg"},
+  {"year": 2014,"owned": false,"id": "18787", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/18787.jpg"},
+
+  {"year": 2015,"owned": false,"id": "18031", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/18031.jpg"},
+  {"year": 2015,"owned": false,"id": "60752", "color":  "69", "imageUrl": "https://img.bricklink.com/P/69/60752.jpg"},
+  {"year": 2015,"owned": false,"id": "18787", "color":  "115", "imageUrl": "https://img.bricklink.com/P/115/18787.jpg"},
+
+  {"year": 2016,"owned": false,"id": "18031", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/18031.jpg"},
+  {"year": 2016,"owned": false,"id": "18031", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/18031.jpg"},
+  {"year": 2016,"owned": false,"id": "11439", "color":  "16", "imageUrl": "https://img.bricklink.com/ItemImage/PT/16/11439.t1.png"},
+  {"year": 2016,"owned": false,"id": "11439", "color": "115", "imageUrl": "https://img.bricklink.com/ItemImage/PT/115/11439.t1.png"},
+  {"year": 2016,"owned": false,"id": "23860", "color":  "14", "imageUrl": "https://img.bricklink.com/P/14/23860.jpg"},
+  {"year": 2016,"owned": false,"id": "23860", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/23860.jpg"},
+  {"year": 2016,"owned": false,"id": "93550", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/93550.jpg"},
+  {"year": 2016,"owned": false,"id": "18787", "color":  "85", "imageUrl": "https://img.bricklink.com/P/85/18787.jpg"},
+
+  {"year": 2017,"owned": false,"id": "10050", "color": "249", "imageUrl": "https://img.bricklink.com/P/249/10050.jpg"},
+  {"year": 2017,"owned": false,"id":  "2530", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/2530.jpg"},
+  {"year": 2017,"owned": false,"id": "18787", "color":  "157", "imageUrl": "https://img.bricklink.com/P/157/18787.jpg"},
+
+  {"year": 2018,"owned": false,"id": "23860", "color":  "15", "imageUrl": "https://img.bricklink.com/P/15/23860.jpg"},
+  {"year": 2018,"owned": false,"id": "37341a", "color": "95", "imageUrl": "https://img.bricklink.com/P/95/37341a.jpg"},
+  {"year": 2018,"owned": false,"id": "36017", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/36017.jpg"},
+
+
+  {"year": 2019,"owned": false,"id": "93247", "color": "249", "imageUrl": "https://img.bricklink.com/P/249/93247.jpg"},
+  {"year": 2019,"owned": false,"id": "76764", "color":  "15", "imageUrl": "https://img.bricklink.com/P/15/76764.jpg"},
+  {"year": 2019,"owned": false,"id": "41651", "color":  "85", "imageUrl": "https://img.bricklink.com/P/85/41651.jpg"},
+  {"year": 2019,"owned": false,"id":  "2530", "color":   "3", "imageUrl": "https://img.bricklink.com/P/158/2530.jpg"},
+  {"year": 2019,"owned": false,"id": "37341a", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/37341a.jpg"},
+ 
+  {"year": 2020,"owned": false,"id": "66964", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/66964.jpg"},
+  {"year": 2020,"owned": false,"id": "23860", "color": "108", "imageUrl": "https://img.bricklink.com/P/108/23860.jpg"},
+  {"year": 2020,"owned": false,"id": "18031", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/68503pb01.jpg"},
+  {"year": 2020,"owned": false,"id": "37341a", "color": "16", "imageUrl": "https://img.bricklink.com/P/16/37341a.jpg"},
+  {"year": 2020,"owned": false,"id": "36017", "color": "1", "imageUrl": "https://img.bricklink.com/P/1/36017.jpg"},
+  {"year": 2020,"owned": false,"id": "36017", "color": "11", "imageUrl": "https://img.bricklink.com/P/11/36017.jpg"},
+  {"year": 2020,"owned": false,"id": "65184", "color": "18", "imageUrl": "https://img.bricklink.com/P/18/65184.jpg"},
+  {"year": 2020,"owned": false,"id": "65184", "color": "16", "imageUrl": "https://img.bricklink.com/P/16/65184.jpg"},
+
+  {"year": 2021,"owned": false,"id": "18031", "color":   "1", "imageUrl": "https://img.bricklink.com/P/1/18031.jpg"},
+  {"year": 2021,"owned": false,"id": "18031", "color":  "11", "imageUrl": "https://img.bricklink.com/P/11/18031.jpg"},
+  {"year": 2021,"owned": false,"id": "93550", "color":  "89", "imageUrl": "https://img.bricklink.com/P/89/93550.jpg"},
+  {"year": 2021,"owned": false,"id": "37341a", "color": "1", "imageUrl": "https://img.bricklink.com/P/1/37341a.jpg"},
+  {"year": 2021,"owned": false,"id": "37341a", "color": "36", "imageUrl": "https://img.bricklink.com/P/36/37341a.jpg"},
+  {"year": 2021,"owned": false,"id": "18787", "color":  "77", "imageUrl": "https://img.bricklink.com/P/77/18787.jpg"},
+  {"year": 2021,"owned": false,"id": "65184", "color": "108", "imageUrl": "https://img.bricklink.com/P/108/65184.jpg"},
+
+  {"year": 2022,"owned": false,"id": "76764", "color":  "51", "imageUrl": "https://img.bricklink.com/P/51/76764.jpg"},
+  {"year": 2022,"owned": false,"id": "76764", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/76764.jpg"},
+  {"year": 2022,"owned": false,"id": "10050", "color": "115", "imageUrl": "https://img.bricklink.com/P/115/10050.jpg"},
+  {"year": 2022,"owned": false,"id": "23860", "color":  "50", "imageUrl": "https://img.bricklink.com/P/50/23860.jpg"},
+  {"year": 2022,"owned": false,"id": "37341a", "color": "77", "imageUrl": "https://img.bricklink.com/P/77/37341a.jpg"},
+  {"year": 2022,"owned": false,"id": "86146", "color": "50", "imageUrl": "https://img.bricklink.com/P/50/86146.jpg"},
+  {"year": 2022,"owned": false,"id": "65184", "color": "14", "imageUrl": "https://img.bricklink.com/P/14/65184.jpg"},
+  {"year": 2022,"owned": false,"id": "79985", "color": "50", "imageUrl": "https://img.bricklink.com/P/50/79985.jpg"},
+ 
+  {"year": 2023,"owned": false,"id": "2674b", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/2674b.jpg"},
+  {"year": 2023,"owned": false,"id": "2674d", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/2674d.jpg"},
+  {"year": 2023,"owned": false,"id": "2186b", "color":   "1", "imageUrl": "https://img.bricklink.com/P/1/2186b.jpg"},
+  {"year": 2023,"owned": false,"id": "2674c", "color":   "1", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/2674c.t1.png"},
+  {"year": 2023,"owned": false,"id": "19858", "color":  "34", "imageUrl": "https://img.bricklink.com/ItemImage/PT/34/19858.t1.png"},
+  {"year": 2023,"owned": false,"id": "3214pb01","color":"98", "imageUrl": "https://img.bricklink.com/P/98/3214pb01.jpg"},
+  {"year": 2023,"owned": false,"id": "65184", "color": "98", "imageUrl": "https://img.bricklink.com/P/98/65184.jpg"},
+  {"year": 2023,"owned": false,"id": "65184", "color": "98", "imageUrl": "https://img.bricklink.com/P/98/65184.jpg"},
+ 
+  {"year": 2024,"owned": false,"id": "93247", "color":  "95", "imageUrl": "https://img.bricklink.com/P/95/93247.jpg"},
+  {"year": 2024,"owned": false,"id": "3885", "color":   "11", "imageUrl": "https://img.bricklink.com/P/11/3885.jpg"}
+  
+]
