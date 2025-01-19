@@ -11,7 +11,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatSlideToggleModule} from '@angular/material/slide-toggle';
 
 export const routes: Routes = [
-    { path: '', component: HomeComponent },
+    { path: '', component: CollectionOnGridComponent },
     { path: 'about', component: AboutComponent },
     { path: 'collection/:id/year', component: CollectionByYearComponent },
     { path: 'collection/:id/grid', component: CollectionOnGridComponent }

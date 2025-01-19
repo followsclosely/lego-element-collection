@@ -21,11 +21,11 @@ export class CollectionOnGridComponent {
   public grid : LegoGrid[][] = [];
 
   constructor(private route : ActivatedRoute, private collectionService : CollectionService){
-    this.collectionId = route.snapshot.paramMap.get('id');
+    this.collectionId = route.snapshot.paramMap.get('id') ?? 'shields';
   }
 
   ngOnInit(): void {
-    let id = this.route.snapshot.params['id'];
+    let id = this.route.snapshot.params['id'] ?? 'shields';
     console.log('id=' + id);
     
     let columnCount = (id == 'shields' ? 14 : 19)
