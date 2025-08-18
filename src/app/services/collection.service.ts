@@ -30,8 +30,8 @@ export class CollectionService {
 
   getElementsByYear(collectionId : string | null) : Observable<LegoBucket[]> {
     console.log('getElements');
-    return this.http.get<LegoElement[]>("https://github.com/followsclosely/lego-element-collection/blob/master/src/assets/"+collectionId+".json").pipe(
-    //return this.http.get<LegoElement[]>("/rest/"+collectionId+".json").pipe(
+    //return this.http.get<LegoElement[]>("https://github.com/followsclosely/lego-element-collection/blob/master/src/assets/"+collectionId+".json").pipe(
+    return this.http.get<LegoElement[]>("/rest/"+collectionId+".json").pipe(
       map( (elements) => {
         var buckets : LegoBucket[] = [];
         var legoBucket : LegoBucket = new LegoBucket(-1, []);
@@ -51,8 +51,8 @@ export class CollectionService {
 
   getElementsOnGrid(collectionId : string | null, columns : number) : Observable<LegoGrid[][]> {
     console.log('getElements');
-    return this.http.get<LegoElement[]>("https://github.com/followsclosely/lego-element-collection/blob/master/src/assets/"+collectionId+".json").pipe(
-    //return this.http.get<LegoElement[]>("/rest/"+collectionId+".json").pipe(
+    //return this.http.get<LegoElement[]>("https://github.com/followsclosely/lego-element-collection/blob/master/src/assets/"+collectionId+".json").pipe(
+    return this.http.get<LegoElement[]>("/rest/"+collectionId+".json").pipe(
       map( (elements) => {
         var row : number = 0;
         var year : number = 0;
