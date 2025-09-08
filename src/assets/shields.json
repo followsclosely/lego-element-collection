@@ -305,10 +305,10 @@
     {"year": 2024,"owned": true,"id": "3846pb076",  "color": "5",  "imageUrl": "https://img.bricklink.com/P/86/3846pb076.jpg"},
     {"year": 2024,"owned": true,"id": "3846pb074",  "color": "5",  "imageUrl": "https://img.bricklink.com/P/86/3846pb074.jpg"},
     {"year": 2024,"owned": true,"id": "2586",       "color": "154","imageUrl": "https://img.bricklink.com/ItemImage/PT/154/2586.t1.png"},
-    {"year": 2024,"owned": true,"id": "77092-1",    "color": "5",  "imageUrl": "https://cdn.rebrickable.com/media/thumbs/parts/elements/6496714.jpg/80x60p.jpg"},
-    {"year": 2024,"owned": true,"id": "77092-1",    "color": "5",  "imageUrl": "https://cdn.rebrickable.com/media/thumbs/parts/elements/6496718.jpg/80x60p.jpg"},
-    {"year": 2024,"owned": true,"id": "77092-1",    "color": "5",  "imageUrl": "https://cdn.rebrickable.com/media/thumbs/parts/elements/6496721.jpg/80x60p.jpg"},
-    {"year": 2024,"owned": true,"id": "3846pb071",  "color":"86",  "imageUrl": "https://cdn.rebrickable.com/media/thumbs/parts/photos/71/2586pr9997-71-7895fb4f-c640-40fc-a703-313a1f88f3af.jpg/80x60p.jpg"},
+    {"year": 2024,"owned": true,"id": "3846pb072",  "color": "88", "imageUrl": "https://img.bricklink.com/ItemImage/PT/88/3846pb072.t1.png"},
+    {"year": 2024,"owned": true,"id": "4972pb01",   "color": "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/4972pb01.t1.png"},
+    {"year": 2024,"owned": true,"id": "75902pb33",  "color": "85", "imageUrl": "https://img.bricklink.com/ItemImage/PT/85/75902pb33.t1.png"},
+    {"year": 2024,"owned": true,"id": "2586pb013",  "color": "86", "imageUrl": "https://img.bricklink.com/P/86/2586pb013.jpg"},
     {"year": 2024,"owned": true,"id": "75902pb30",  "color": "115","imageUrl": "https://img.bricklink.com/P/115/75902pb30.jpg"},
     {"year": 2024,"owned": true,"id": "26603pb374", "color": "86", "imageUrl": "https://img.bricklink.com/P/86/26603pb374.jpg"},
     
@@ -316,10 +316,13 @@
     {"year": 2025,"owned": true,"id": "3846pb077",  "color": "86", "imageUrl": "https://img.bricklink.com/P/86/3846pb077.jpg"},
     {"year": 2025,"owned": true,"id": "3846",       "color": "90", "imageUrl": "https://img.bricklink.com/ItemImage/PT/90/3846.t1.png"},
     {"year": 2025,"owned": false,"id": "3846pb078", "color": "86", "imageUrl": "https://img.bricklink.com/P/86/3846pb078.jpg"},
-    {"year": 2025,"owned": false,"id": "3022",      "color": "85", "imageUrl": "https://img.bricklink.com/ItemImage/PT/85/75902pb34.t1.png"},
-    {"year": 2025,"owned": false,"id": "75902pb35", "color": "80", "imageUrl": "https://img.bricklink.com/ItemImage/PT/80/75902pb35.t1.png"},
-    {"year": 2025,"owned": false,"id": "3022",      "color": "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/4972pb02.t1.png"},
-    {"year": 2025,"owned": false,"id": "75902",     "color": "80", "imageUrl": "https://img.bricklink.com/ItemImage/PT/80/75902.t1.png"},
+    {"year": 2025,"owned": true,"id": "3022",       "color": "85", "imageUrl": "https://img.bricklink.com/ItemImage/PT/85/75902pb34.t1.png"},
+    {"year": 2025,"owned": true,"id": "75902pb35",  "color": "80", "imageUrl": "https://img.bricklink.com/ItemImage/PT/80/75902pb35.t1.png"},
+    {"year": 2025,"owned": true,"id": "3022",       "color": "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/4972pb02.t1.png"},
+    {"year": 2025,"owned": false,"id": "4972pb03",  "color":"115", "imageUrl": "https://img.bricklink.com/ItemImage/PT/115/4972pb03.t1.png"},
+    {"year": 2025,"owned": true,"id": "75902",      "color": "80", "imageUrl": "https://img.bricklink.com/ItemImage/PT/80/75902.t1.png"},
     {"year": 2025,"owned": true,"id": "3846pb079",  "color":  "5", "imageUrl": "https://img.bricklink.com/ItemImage/PT/86/3846pb079.t1.png"},
-    {"year": 2025,"owned": true,"id": "4972pb04",   "color": "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/4972pb04.t1.png"}
+    {"year": 2025,"owned": true,"id": "4972pb04",   "color": "95", "imageUrl": "https://img.bricklink.com/ItemImage/PT/95/4972pb04.t1.png"},
+    {"year": 2025,"owned": true,"id": "AdventureInTransylvania",   "color": "5", "imageUrl": "https://img.bricklink.com/ItemImage/PT/5/3022.t1.png"},
+    {"year": 2025,"owned": true,"id": "21361GremlinsGizmo",   "color": "5", "imageUrl": "https://img.bricklink.com/ItemImage/PT/5/3022.t1.png"}
   ]

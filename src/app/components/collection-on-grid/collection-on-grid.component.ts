@@ -25,6 +25,8 @@ export class CollectionOnGridComponent {
   }
 
   ngOnInit(): void {
+    console.info("CollectionOnGridComponent ngOnInit");
+
     let id = this.route.snapshot.params['id'] ?? 'shields';
     console.log('id=' + id);
     
